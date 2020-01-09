@@ -1,0 +1,28 @@
+.main{
+  width: 960px;
+  margin: auto;
+}
+.div1{
+  width: 250px;
+  height: 200px;
+  background-color: yellow;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+
+}
+.parents{
+  position: relative;
+  height: 200px;
+  margin: auto;
+  background-color: violet;
+}
+.son{
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  background-color: saddlebrown;
+  bottom: 0px;
+  right: -20px;
+
+}
